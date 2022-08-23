@@ -1,4 +1,4 @@
-# bg-probability package
+# gb-probability package
 
 Package for calculating and visualizing Binomial and Gaussian probability distributions.
 
