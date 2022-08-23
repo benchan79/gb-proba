@@ -12,4 +12,4 @@ Gaussiandistribution.py - Contains the code for the Gaussian distribution class 
 
 # Installation
 
-pip install gb-probability
+pip install gb-proba
